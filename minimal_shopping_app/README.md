@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+##Screenshot
+![alt text](https://github.com/leanhtuan1994/flutter_example/blob/master/minimal_shopping_app/screenshot.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
