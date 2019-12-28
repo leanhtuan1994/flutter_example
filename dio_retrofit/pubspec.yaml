@@ -1,0 +1,36 @@
+name: dio_retrofit
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  retrofit:
+  dio:
+  logger:
+  json_annotation:
+  rxdart:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator: 
+  build_runner: 
+  json_serializable:
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
